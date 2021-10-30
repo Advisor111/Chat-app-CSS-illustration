@@ -262,7 +262,7 @@ body {
 }
 .container .s-text p {
     color: #777;
-    margin: 0 35px;
+    margin: 0 35px 60px;
     line-height: 1.6;
 }
 @media (min-width: 768px) {
